@@ -1,0 +1,8 @@
+[09-27-2018 @ 04:55:33.598 GMT] [updateCache()@TwitchCache.java:293] TwitchCache::updateCache: 
+
+[09-27-2018 @ 15:51:35.163 GMT] [updateCache()@TwitchCache.java:293] TwitchCache::updateCache: 
+
+[09-27-2018 @ 16:55:02.111 GMT] [updateCache()@TwitchCache.java:293] TwitchCache::updateCache: 
+
+[09-27-2018 @ 19:08:26.781 GMT] [updateCache()@TwitchCache.java:293] TwitchCache::updateCache: 
+

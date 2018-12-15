@@ -1,0 +1,6 @@
+[11-09-2018 @ 18:55:49.090 GMT] [lambda$sendMessage$0()@DiscordUtil.java:71] Failed to send a message: [DiscordException] Failed to send message due to the channel object being null.
+
+[11-09-2018 @ 18:56:31.103 GMT] [lambda$sendMessage$0()@DiscordUtil.java:71] Failed to send a message: [DiscordException] Failed to send message due to the channel object being null.
+
+[11-09-2018 @ 18:57:34.774 GMT] [lambda$sendMessage$0()@DiscordUtil.java:71] Failed to send a message: [DiscordException] Failed to send message due to the channel object being null.
+

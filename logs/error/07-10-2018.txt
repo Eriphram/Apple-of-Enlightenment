@@ -1,0 +1,2 @@
+[10-07-2018 @ 18:10:16.169 EST] [init.js:300] (hook.call, command, ./core/initCommands.js) TypeError: Cannot read property "scriptName" from undefined
+[10-07-2018 @ 19:40:25.782 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["mole"] not found.

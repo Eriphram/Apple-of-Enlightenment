@@ -1,0 +1,6 @@
+[11-09-2018 @ 21:56:39.032 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["frankystienmkii"] not found.
+[11-09-2018 @ 21:56:48.980 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["frankysteinmkii"] not found.
+[11-09-2018 @ 21:57:38.367 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["Starman"] not found.
+[11-09-2018 @ 21:58:53.827 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["giygas"] not found.
+[11-09-2018 @ 21:59:51.825 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["worthlessprotoplasim"] not found.
+[11-09-2018 @ 22:20:20.419 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["teritorialoak"] not found.

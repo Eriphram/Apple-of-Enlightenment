@@ -1,0 +1,21 @@
+[11-26-2018 @ 05:21:58.254 GMT] [handleFile()@HTTPServerCommon.java:572] HTTP Server: handleFile(): ./web/beta-panel/js (No such file or directory)
+
+[11-26-2018 @ 05:21:58.266 GMT] java.io.FileNotFoundException: ./web/beta-panel/js (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at tv.phantombot.httpserver.HTTPServerCommon.handleFile(HTTPServerCommon.java:563)
+	at tv.phantombot.httpserver.HTTPServerCommon.handle(HTTPServerCommon.java:231)
+	at tv.phantombot.httpserver.HTTPServer$HTTPServerHandler.handle(HTTPServer.java:115)
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:79)
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:83)
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:82)
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:675)
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:79)
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:647)
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:158)
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:431)
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:396)
+	at java.lang.Thread.run(Thread.java:745)
+
+

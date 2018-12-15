@@ -1,0 +1,18 @@
+[11-12-2018 @ 20:05:51.461 GMT] java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:255)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at com.gmt2001.Console.in.readLine(in.java:36)
+	at tv.phantombot.console.ConsoleInputListener.run(ConsoleInputListener.java:31)
+
+
+[11-12-2018 @ 22:30:42.919 GMT] [updateCache()@TwitchCache.java:293] TwitchCache::updateCache: 
+

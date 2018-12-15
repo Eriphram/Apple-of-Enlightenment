@@ -1,0 +1,4 @@
+[11-22-2018 @ 17:26:06.247 EST] [logging.js:211] Starting Log Rotation
+[11-22-2018 @ 17:26:06.289 EST] [logging.js:218] Log Rotate: Deleted ./logs/error/24-08-2018.txt
+[11-22-2018 @ 17:26:06.354 EST] [logging.js:218] Log Rotate: Deleted ./logs/event/24-08-2018.txt
+[11-22-2018 @ 17:26:06.405 EST] [logging.js:223] Finished Log Rotation

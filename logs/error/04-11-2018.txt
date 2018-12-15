@@ -1,0 +1,1 @@
+[11-04-2018 @ 23:29:45.844 EST] [init.js:308] (hook.call, ircChannelLeave, ./core/permissions.js) TypeError: Cannot read property "0" from undefined

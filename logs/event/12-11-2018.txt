@@ -1,0 +1,6 @@
+[11-12-2018 @ 13:59:39.869 EST] [logging.js:194] Starting Log Rotation
+[11-12-2018 @ 13:59:39.977 EST] [logging.js:201] Log Rotate: Deleted ./logs/event/14-08-2018.txt
+[11-12-2018 @ 13:59:39.999 EST] [logging.js:206] Finished Log Rotation
+[11-12-2018 @ 15:12:54.107 EST] [init.js:371] Bot modules loaded. Initializing main functions...
+[11-12-2018 @ 15:12:55.229 EST] [logging.js:194] Starting Log Rotation
+[11-12-2018 @ 15:12:55.315 EST] [logging.js:206] Finished Log Rotation

@@ -1,0 +1,6 @@
+[10-16-2018 @ 18:09:46.712 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["king"] not found.
+[10-16-2018 @ 18:09:55.603 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["Pokey"] not found.
+[10-16-2018 @ 18:10:01.614 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["ness"] not found.
+[10-16-2018 @ 18:44:01.064 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["attack"] not found.
+[10-16-2018 @ 18:44:12.063 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["Seawalker777"] not found.
+[10-16-2018 @ 18:59:15.982 EST] [customCommands.js:522] Failed to get data from API: org.json.JSONException: JSONObject["strong"] not found.

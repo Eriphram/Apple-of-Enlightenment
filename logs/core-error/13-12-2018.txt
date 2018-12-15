@@ -1,0 +1,6 @@
+[12-13-2018 @ 06:32:04.481 GMT] [reconnect()@DiscordAPI.java:117] Failed to reconnect with Discord: [DiscordException] Attempt to login client more than once.
+
+[12-13-2018 @ 06:32:04.484 GMT] [lambda$onDiscordReadyEvent$0()@DiscordAPI.java:216] Connection with Discord was disconnected.
+
+[12-13-2018 @ 06:32:04.486 GMT] [lambda$onDiscordReadyEvent$0()@DiscordAPI.java:217] Reconnecting will be attempted in 60 seconds...
+

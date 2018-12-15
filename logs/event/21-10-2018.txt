@@ -1,0 +1,2 @@
+[10-21-2018 @ 20:54:07.054 EST] [logging.js:194] Starting Log Rotation
+[10-21-2018 @ 20:54:07.152 EST] [logging.js:206] Finished Log Rotation
