@@ -13,7 +13,7 @@
     // Function to generate a random string of letters.
     function getRandomString(size) {
         // Local variables just for this function.
-        var letters = 'abcdefghijklmnopqrstuvwxyz',
+        var letters = '01234',
             data = '',
             i;
 
