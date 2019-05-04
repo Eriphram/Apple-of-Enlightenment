@@ -42,7 +42,7 @@
            // }
 
             // Argument was said, say this in chat now.
-            $.discord.say("Random string: " + getRandomString(parseInt(args[0])));
+            $.discord.say(channel, "Random string: " + getRandomString(parseInt(args[0])));
         }
     });
 
